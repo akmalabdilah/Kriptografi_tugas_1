@@ -134,10 +134,10 @@ if (PHP_SAPI === 'cli') {
 
 ```
 
-![Gambar 1](screenshoot/1.JPG)
-![Gambar 2](screenshoot/2.JPG)
-![Gambar 3](screenshoot/3.JPG)
-![Gambar 4](screenshoot/4.JPG)
+![Gambar 1](screenshoot/1.png)
+![Gambar 2](screenshoot/2.png)
+![Gambar 3](screenshoot/3.png)
+![Gambar 4](screenshoot/4.png)
 
 <p>
 Sekian Selesai.
