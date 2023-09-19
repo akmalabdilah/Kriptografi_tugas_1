@@ -140,7 +140,7 @@ if (PHP_SAPI === 'cli') {
 ![Gambar 4](screenshoot/4.png)
 
 <p>
-Sekian Selesai.
+Karna di gambar ada program python juga saya hanya menjelaskan php saja sekian selesai.
 </p>
 
 <div>
