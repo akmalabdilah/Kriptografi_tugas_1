@@ -1,43 +1,4 @@
-# Kriptografi Pertemuan 1
-
-## Profil
-| #               | Biodata                      |
-| --------------- | ---------------------------- |
-| **Nama**        | M. AKMAL AL ABDILAH          |
-| **NIM**         | 312110034                    |
-| **Kelas**       | TI.21.A.1                    |
-| **Mata Kuliah** | Kriptografi                  |
-
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
-</p>
-<p align="center">
-<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH1&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
-<p align="center">
-
-<hr>
-
-## Kriptografi Program Caesar Cipher Menggunakan PHP
-
-<hr>
-
-<p>
-Disini saya akan menjelaskan secara singkat apa itu Kriptografi Program Caesar Cipher Menggunakan PHP,
-
-Kriptografi Program Caesar Cipher Menggunakan PHP adalah sebuah program yang digunakan untuk melakukan enkripsi dan dekripsi teks menggunakan metode Caesar Cipher. 
-
-Caesar Cipher adalah teknik enkripsi sederhana yang menggeser setiap huruf dalam teks asli sejauh jumlah tertentu dalam abjad. Program ini dibuat dengan menggunakan bahasa pemrograman PHP dan memungkinkan pengguna untuk memasukkan teks, mengatur jumlah pergeseran (kunci), dan kemudian mengenkripsi atau mendekripsi teks sesuai dengan pergeseran yang ditentukan. 
-
-Program ini dibuat oleh Lindo Prasetyo dan mencakup fitur-fitur seperti menu, enkripsi, dekripsi, dan tampilan informasi header. Tujuan utama dari program ini adalah untuk memahami dan mengimplementasikan konsep dasar dalam kriptografi dengan menggunakan metode Caesar Cipher.
-</p>
-
-<p>
-Oke tanpa basa basi laki ini adalah score code dan gambaran hasilnya.
-</p>
-
-
-```php
+<?php
 function headerInfo() {
     echo "Kriptografi Program Caesar Cipher Menggunakan PHP\n";
     echo "M. AKMAL AL ABDILAH\n";
@@ -131,19 +92,3 @@ if (PHP_SAPI === 'cli') {
     echo "Program ini dimaksudkan untuk dijalankan dari command line.";
 }
 ?>
-
-```
-
-![Gambar 1](screenshoot/1.JPG)
-![Gambar 2](screenshoot/2.JPG)
-![Gambar 3](screenshoot/3.JPG)
-![Gambar 4](screenshoot/4.JPG)
-
-<p>
-Sekian Selesai.
-</p>
-
-<div>
-<h2 align="center">Thanks For Reading!!!</h2>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif">
